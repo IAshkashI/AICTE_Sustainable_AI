@@ -1,4 +1,5 @@
-# Week_1
+Project : Prediction of Forest fires
+
 Wildfire Area Prediction Model
 This project details the development of a machine learning model to predict the total burned area of forest fires. The objective is to create a predictive tool for risk assessment and resource management, utilizing the Forest Fires dataset from the UCI Machine Learning Repository.
 
